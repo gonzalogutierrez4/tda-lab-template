@@ -6,10 +6,7 @@ algo que ha salido y tiene que ver con lo que estamos dando.
 Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
 
 ```
-### Título del tema — fecha
-
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+### Ada LoveLace — 13/10
+Según National Geographic, Ada LoveLace fue una aristócrata matemática
+que asentó las bases de los mundos digitales, sobre todo en el área de la programación.
+Inventó un algoritmo para que una máquina mecánica calcurara unos nú
