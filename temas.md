@@ -32,7 +32,7 @@ más allá de nuestro sistema solar.
 
 **Mi Disco de Oro 2026**
 
-- **Lo que pondría:** IMAGEN, CANCIÓN Y/O FRASE.
-- **En qué idioma:** IDIOMA.
-- **En qué formato:** FORMATO.
+- **Lo que pondría:** Himno Real Sporting de Gijón
+- **En qué idioma:** Español
+- **En qué formato:** WAV.
 
